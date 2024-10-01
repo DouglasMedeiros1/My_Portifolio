@@ -1,0 +1,3 @@
+[submodule "submodules/my_submodule"]
+	path = submodules/my_submodule
+	url = https://github.com/DouglasMedeiros1/My_Portifolio.Source
